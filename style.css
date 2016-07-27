@@ -1,0 +1,89 @@
+header {
+  font-family: 'Yellowtail', cursive;
+  color: #DD5555;
+  font-size: 80px;
+  text-align: center;
+
+}
+
+ul {
+  list-style-type: none;
+  display: block;
+}
+
+li {
+  float: left;
+  padding: 14px 16px;
+}
+
+li i:hover {
+  background-color: #FDF6E3;
+  color: #DD5555;
+}
+
+h1 {
+  font-family: 'Slabo 27px', serif;
+  color: #DD5555;
+}
+
+#profilepic {
+  border-radius: 50%
+}
+
+.all{
+  width: 80% ;
+  margin: 30px auto;
+}
+.profile {
+  background-color: #FDF6E3;
+  padding: 40px;
+  border-radius: 5%;
+  width: 20%;
+  height: auto;
+  text-align: center;
+  float: left;
+}
+
+.profile h2, a {
+  font-family: 'Amatic SC', cursive;
+}
+footer h2 {
+  font-family: 'Amatic SC', cursive;
+}
+
+.content {
+  width: 60%;
+  height: 50%;
+  margin: 0 auto;
+  float: right;
+
+}
+.content p {
+  width: 70%;
+}
+
+.content h2 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  color: #DD5555;
+}
+
+.content h3 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
+}
+
+.clear {
+  clear: both;
+}
+footer {
+  display: inline-block;
+  background-color: #FDF6E3;
+  width: 100%;
+  text-align: center;
+}
+
+
+footer p {
+  font-family: 'Slabo 27px', serif;
+}
